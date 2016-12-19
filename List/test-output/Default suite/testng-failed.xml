@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="testMetod.EListTestNGPrm">
+        <methods>
+          <include name="testMin_0"/>
+          <include name="testToArray_many"/>
+          <include name="test_Sort_many"/>
+          <include name="testMin_1"/>
+          <include name="testInit_many"/>
+          <include name="test_Set_0_OutOffBounds"/>
+          <include name="testAddStart_many"/>
+          <include name="testAddEnd_2"/>
+          <include name="test_Set_1_OutOffBounds"/>
+          <include name="testAddEnd_1"/>
+          <include name="testAddEnd_0"/>
+          <include name="test_AddPos_1"/>
+          <include name="test_Del_Start_1"/>
+          <include name="test_AddPos_many"/>
+          <include name="test_Del_Start_0"/>
+          <include name="test_Del_Start_2"/>
+          <include name="test_toString_1"/>
+          <include name="test_Reverse_1"/>
+          <include name="test_Set_2"/>
+          <include name="test_toString_0"/>
+          <include name="testClear_many"/>
+          <include name="test_toString_2"/>
+          <include name="testMax_0"/>
+          <include name="test_Reverse_2"/>
+          <include name="test_Set_1"/>
+          <include name="test_minPos_2"/>
+          <include name="test_minPos_1"/>
+          <include name="test_Get_1"/>
+          <include name="test_DelPos_1"/>
+          <include name="testMax_2"/>
+          <include name="test_AddPos_many2"/>
+          <include name="testMax_1"/>
+          <include name="test_Get_2"/>
+          <include name="test_halfReverse_many"/>
+          <include name="test_Get_1_OutOffBounds"/>
+          <include name="test_minPos_many"/>
+          <include name="test_Del_End_many"/>
+          <include name="test_maxPos_many"/>
+          <include name="test_Sort_1"/>
+          <include name="test_Sort_2"/>
+          <include name="testAddStart_0"/>
+          <include name="test_Iterator_01"/>
+          <include name="test_Iterator_02"/>
+          <include name="testAddStart_2"/>
+          <include name="testAddStart_1"/>
+          <include name="test_Iterator_00"/>
+          <include name="test_Reverse_many"/>
+          <include name="testClear_1"/>
+          <include name="testInit_2"/>
+          <include name="testClear_2"/>
+          <include name="testAddEnd_many"/>
+          <include name="testClear_0"/>
+          <include name="testInit_1"/>
+          <include name="testSize_many"/>
+          <include name="testInit_null"/>
+          <include name="test_halfReverse_2"/>
+          <include name="test_halfReverse_1"/>
+          <include name="testMax_many"/>
+          <include name="test_Get_many"/>
+          <include name="test_halfReverse_0"/>
+          <include name="test_maxPos_1"/>
+          <include name="test_AddPos_2"/>
+          <include name="test_Del_Start_many"/>
+          <include name="test_Sort_many_2"/>
+          <include name="testToArray_2"/>
+          <include name="testMin_many"/>
+          <include name="testInit_0"/>
+          <include name="testToArray_1"/>
+          <include name="test_Set_many"/>
+          <include name="testToArray_0"/>
+          <include name="test_DelPos_many"/>
+          <include name="test_Del_Pos_2_1"/>
+          <include name="test_toString_many"/>
+          <include name="testSize_1"/>
+          <include name="testSize_0"/>
+          <include name="testMin_2"/>
+          <include name="testSize_4"/>
+          <include name="test_Del_Pos_2_0"/>
+          <include name="test_maxPos_2"/>
+          <include name="test_Del_End_1"/>
+          <include name="test_Get_0_OutOffBounds"/>
+          <include name="test_Del_End_2"/>
+        </methods>
+      </class> <!-- testMetod.EListTestNGPrm -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

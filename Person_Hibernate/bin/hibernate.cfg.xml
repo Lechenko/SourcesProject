@@ -1,0 +1,23 @@
+<hibernate-configuration> 
+<session-factory> 
+<property name="connection.driver_class">com.mysql.jdbc.Driver</property> 
+<property name="connection.url">jdbc:mysql://localhost:3306/bdperson?useSSL=false</property> 
+<property name="connection.username">root</property> 
+<property name="connection.password"></property> 
+
+
+<property name="connection.pool_size">1</property> 
+<property name="dialect">org.hibernate.dialect.MySQLDialect</property> 
+<property name="current_session_context_class">thread</property> 
+
+
+<!-- note: rimbalza Echo SQLquery su stdoout -->   
+<property name="show_sql">true</property> 
+<property name="hibernate.hbm2ddl.auto">update</property>
+
+
+
+
+
+</session-factory> 
+</hibernate-configuration> 
